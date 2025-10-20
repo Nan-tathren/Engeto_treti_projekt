@@ -14,14 +14,15 @@ Windows: venv\Scripts\activate
 Linux/Mac: source venv/bin/activate
 
 3. Nainstaluj potřebné knihovny:
-pip install -r requirements.txt
+-- pip install -r requirements.txt
 
 ## Spuštění projektu
 Projekt spouštíš pomocí 2 argumentů:
-python main.py <URL_uzemniho_celku> <nazev_vystupniho_souboru.csv>
+-- python main.py <URL_uzemniho_celku> <nazev_vystupniho_souboru.csv>
 
 ## Příklad
-python main.py https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101 vysledky_benesov.csv
+-- python main.py https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101 vysledky_benesov.csv
+
 Po dokončení bude výstupní CSV soubor obsahovat všechny obce, počty voličů, vydané obálky, platné hlasy a hlasy pro jednotlivé strany.
 
 ## Poznámky
