@@ -14,7 +14,7 @@ Linux/Mac: source venv/bin/activate
 
 4. Nainstaluj potřebné knihovny:
    
-   <img width="537" height="75" alt="image" src="https://github.com/user-attachments/assets/659d7d4f-2643-45b6-9230-33102f1ec15a" />
+<img width="537" height="75" alt="image" src="https://github.com/user-attachments/assets/659d7d4f-2643-45b6-9230-33102f1ec15a" />
  
 ## Spuštění projektu
 Projekt spouštíš pomocí 2 argumentů:
