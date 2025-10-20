@@ -5,17 +5,20 @@ Tento projekt stahuje výsledky voleb z webu [volby.cz](https://www.volby.cz) pr
 ## Instalace
 
 1. Vytvoř virtuální prostředí:
+   
 <img width="328" height="61" alt="image" src="https://github.com/user-attachments/assets/5223cc0c-383f-47d3-9146-b57747905336" />
 
-2. Aktivuj prostředí:
+3. Aktivuj prostředí:
 Windows: venv\Scripts\activate
 Linux/Mac: source venv/bin/activate
 
-3. Nainstaluj potřebné knihovny:
+4. Nainstaluj potřebné knihovny:
+   
    <img width="537" height="75" alt="image" src="https://github.com/user-attachments/assets/659d7d4f-2643-45b6-9230-33102f1ec15a" />
  
 ## Spuštění projektu
 Projekt spouštíš pomocí 2 argumentů:
+
 <img width="549" height="75" alt="image" src="https://github.com/user-attachments/assets/7d169c1b-0739-40ce-9d84-66fef6ad9409" />
 
 ## Příklad
