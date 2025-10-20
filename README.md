@@ -14,6 +14,7 @@ Windows: venv\Scripts\activate
 Linux/Mac: source venv/bin/activate
 
 3. Nainstaluj potřebné knihovny:
+   
 -- pip install -r requirements.txt
 
 ## Spuštění projektu
